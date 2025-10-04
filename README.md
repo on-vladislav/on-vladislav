@@ -30,7 +30,7 @@
 
 ### 📫 Связь со мной
 
-- 🌍 Мой персональный сайт: [onishchukvlad.ru](https://onishchukvlad.ru)   
+- 🌍 Мой сайт: [onishchukvlad.ru](https://onishchukvlad.ru)   
 - 💬 Telegram: [@onishchukvlad](https://t.me/onishchukvlad)  
 - 💼 GitHub: [github.com/onishchukvlad](https://github.com/onishchukvlad)
 
