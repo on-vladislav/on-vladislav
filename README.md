@@ -32,7 +32,7 @@
 
 - 🌍 Мой сайт: [onishchukvlad.ru](https://onishchukvlad.ru)   
 - 💬 Telegram: [@onishchukvlad](https://t.me/onishchukvlad)  
-- 💼 GitHub: [github.com/onishchukvlad](https://github.com/onishchukvlad)
+- 💼 GitHub: [github.com/on-vladislav](https://github.com/on-vladislav)
 
 ---
 
